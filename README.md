@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">📌 I'm software developer livin in  Cologne (Köln)<br>👉 Check my projects here : https://zeljko-alakovic.de<br>✨ Creating bugs since 2023<br>🚀 Available to start a new project<br>💼 Junior Frontend Developer — seeking opportunities  <br>🎯 Long-term goal: Become a Full Stack Developer</p>
+<p align="left">📌 I'm software developer living in  Cologne (Köln)<br>👉 Check my projects here : https://zeljko-alakovic.de<br>✨ Creating bugs since 2023<br>🚀 Available to start a new project<br>💼 Junior Frontend Developer — seeking opportunities  <br>🎯 Long-term goal: Become a Full Stack Developer</p>
 
 ###
 
