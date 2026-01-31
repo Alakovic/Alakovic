@@ -42,7 +42,13 @@
 
 ###
 
-<p align="left">📧 Write me an e-mail: zeljkoalakovic997@outlook.com</p>
+<p align="left">
+  📧 Write me an e-mail: 
+  <a href="mailto:zeljkoalakovic997@outlook.com">
+    zeljkoalakovic997@outlook.com
+  </a>
+</p>
+
 
 ###
 
